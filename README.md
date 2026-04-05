@@ -2,6 +2,8 @@
 
 ![GITHUB BANNER](https://github.com/user-attachments/assets/1cf624dc-dc01-48fc-9ac3-7fa95902dde5)
 
+<p>Mikrokontroler seperti Arduino merupakan bagian penting dari berbagai proyek DIY, termasuk robotika. Pada pembahasan sebelumnya, kita telah melihat tata letak pin dan fungsi GPIO pada Arduino Uno. Pin GPIO dapat digunakan untuk membaca atau menulis data digital, yaitu tegangan tinggi atau rendah secara kontinu, atau bekerja dengan data analog berupa sinyal PWM yang bergantian antara tegangan tinggi dan rendah dalam rentang waktu yang sangat singkat. Kita juga telah melihat bahwa mikrokontroler dan single-board computer ini mendukung berbagai fungsi GPIO, termasuk protokol untuk berkomunikasi data dengan perangkat keras lainnya.</p>
+
 <p>Protokol komunikasi adalah seperangkat aturan yang menentukan bagaimana data ditransfer antar perangkat elektronik. Protokol ini mengatur bagaimana bit dikemas, dikirim, dan diinterpretasikan. Dalam Arduino, protokol ini memungkinkan mikrokontroler untuk berkomunikasi dengan sensor, modul, Arduino lain, bahkan komputer.</p>
 
 <p>Pada Arduino ada beberapa jenis protokol komunikasi yaitu Serial (UART), I2C, and SPI</p>
