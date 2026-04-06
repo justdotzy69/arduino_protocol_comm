@@ -41,7 +41,7 @@ Pada baris pertama layar LCD, kita akan menampilkan static text, sementara pada 
 
 Berikut jika diterapkan menggunakan Tinkercad. Pada Tinkercad library yang dapat digunakan untuk menampilkan tulisan di LCD I2C dengan menambahkan library `#include <Adafruit_LiquidCrystal.h>` pada program yang akan dibuat.
 
-https://github.com/user-attachments/assets/4da19958-09c2-4281-bbda-0ac7d6c9ddb5
+https://github.com/user-attachments/assets/781d65a3-4bda-457c-a1c5-888309296cfe
 
 Coba terapkan dengan menggunakan versi Quote Anda sendiri!
 
